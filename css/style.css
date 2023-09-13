@@ -1,0 +1,21 @@
+body{
+	text-emphasis: triangle blue;
+}
+
+h1{
+	background-color: green;
+}
+
+.quote{
+	color: orange;
+}
+
+
+.narrator{
+	border: 1px dotted red;
+}
+
+#intro{
+	color: blue;
+	transform: skew(30deg, 20deg);
+}
